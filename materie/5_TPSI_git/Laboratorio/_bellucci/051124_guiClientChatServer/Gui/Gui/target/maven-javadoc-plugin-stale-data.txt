@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Claudio Bioletti/OneDrive/Desktop/scuola_davide_2024-2025/TPSI/Gui/Gui/src/main/java;C:/Users/Claudio Bioletti/OneDrive/Desktop/scuola_davide_2024-2025/TPSI/Gui/Gui/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Claudio Bioletti/OneDrive/Desktop/scuola_davide_2024-2025/TPSI/Gui/Gui/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Gui 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Gui 1.0-SNAPSHOT API'
+edu.avo.gui
+'C:/Users/Claudio Bioletti/OneDrive/Desktop/scuola_davide_2024-2025/TPSI/Gui/Gui/src/main/java/edu/avo/gui/ChatGui.java'
+'C:/Users/Claudio Bioletti/OneDrive/Desktop/scuola_davide_2024-2025/TPSI/Gui/Gui/src/main/java/edu/avo/gui/IAppObserver.java'
+'C:/Users/Claudio Bioletti/OneDrive/Desktop/scuola_davide_2024-2025/TPSI/Gui/Gui/src/main/java/edu/avo/gui/IEventObserver.java'
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\src\main\java = 1730791831022
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\generated-sources\annotations = 1729706552000
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\allclasses-index.html = 1730792431156
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\allpackages-index.html = 1730792431162
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\copy.svg = 1730792431248
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\element-list = 1730792430935
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\help-doc.html = 1730792431230
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\index-all.html = 1730792431210
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\index.html = 1730792431221
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\member-search-index.js = 1730792431178
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\module-search-index.js = 1730792431167
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\overview-tree.html = 1730792431117
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\package-search-index.js = 1730792431172
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\script.js = 1730792431242
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\search-page.js = 1730792431263
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\search.html = 1730792431216
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\search.js = 1730792431258
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\serialized-form.html = 1730792431041
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\stylesheet.css = 1730792431237
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\tag-search-index.js = 1730792431181
+C:\Users\Claudio Bioletti\OneDrive\Desktop\scuola_davide_2024-2025\TPSI\Gui\Gui\target\apidocs\type-search-index.js = 1730792431175

@@ -1,0 +1,18 @@
+Cri, ti condivido la consegna e la soluzione di un esercizio di progettazione di un protocollo "meteo". In questo momento è testuale ma contiamo di fare una variante binaria per mostrare la differenza ai ragazzi.
+
+ciao!
+marzia
+
+CONSEGNA:
+Progettare un protocollo di rete che permetta a un client di chiedere a un server informazioni sul meteo. Il client può richiedere:
+
+-  riguardo al giorno corrente, per una certa provincia italiana (individuata dalla sigla), la temperatura (in gradi celsius o farenheit) oppure lo stato (pioggia, nuovoloso, sereno) oppure la velocità del vento (in km/h) e la direzione (NE, N, NO, O, SO, S, SE, E).
+
+- riguardo ai giorni successivi, fino a 7 giorni dopo la data corrente, la temperatura massima e minima giornaliera e la probabilità di pioggia (in percentuale).
+
+Gestire eventuali errori.
+
+Seguendo il format fornito, indicare il compito del protocollo, la sintassi dei comandi di client e server e almeno due diagrammi di sequenza.
+
+UNA SOLUZIONE
+https://docs.google.com/document/d/1YoPooV5MCGI5hEyKIXz0GNNMr2rI8hvjsSNOCAAKNCI/edit?usp=sharing

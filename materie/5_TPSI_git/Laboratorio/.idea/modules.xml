@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Laboratorio.iml" filepath="$PROJECT_DIR$/.idea/Laboratorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvEs2KnockKnockServer/jvEs2KnockKnockServer.iml" filepath="$PROJECT_DIR$/jvEs2KnockKnockServer/jvEs2KnockKnockServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_nesi/jvNesiEs01_calc/jvNesiEs01_Calc.iml" filepath="$PROJECT_DIR$/_nesi/jvNesiEs01_calc/jvNesiEs01_Calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvsEs1EchoServer/jvsEs1EchoServer.iml" filepath="$PROJECT_DIR$/jvsEs1EchoServer/jvsEs1EchoServer.iml" />
+    </modules>
+  </component>
+</project>

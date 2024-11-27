@@ -1,0 +1,12 @@
+edu\avo\eserciziopreparatorio\client\App.class
+edu\avo\eserciziopreparatorio\server\EsercizioPreparatorioServer.class
+edu\avo\eserciziopreparatorio\server\SenderProtocolManager.class
+edu\avo\eserciziopreparatorio\server\Server.class
+edu\avo\eserciziopreparatorio\client\EsercizioPreparatorioClient.class
+edu\avo\eserciziopreparatorio\client\ICommandConsumer.class
+edu\avo\eserciziopreparatorio\client\Client.class
+edu\avo\eserciziopreparatorio\client\SenderProtocolManager.class
+edu\avo\eserciziopreparatorio\server\ICommandConsumer.class
+edu\avo\eserciziopreparatorio\server\App.class
+edu\avo\eserciziopreparatorio\server\ReaderProtocolManager.class
+edu\avo\eserciziopreparatorio\client\ReaderProtocolManager.class

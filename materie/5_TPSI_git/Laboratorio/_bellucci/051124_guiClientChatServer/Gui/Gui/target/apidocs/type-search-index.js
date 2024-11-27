@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.avo.gui","l":"ChatGui"},{"p":"edu.avo.gui","l":"IAppObserver"},{"p":"edu.avo.gui","l":"IEventObserver"}];updateSearchResults();

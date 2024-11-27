@@ -1,0 +1,14 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showRibbon": false,
+  "readableLineLength": false,
+  "livePreview": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "tabSize": 4
+}
